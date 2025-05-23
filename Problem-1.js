@@ -26,4 +26,3 @@ class Calculator {
 
   const calc1 = new Calculator(10.5, 5.2, 'add');
   console.log('Result:', calc1.calculate());
-  
