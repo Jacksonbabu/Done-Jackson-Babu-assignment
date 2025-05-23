@@ -5,7 +5,7 @@ function countMultiples(arr) {
       result[i] = 0;
     }
   
-    // Count multiples
+    
     for (let num of arr) {
       for (let i = 1; i <= 9; i++) {
         if (num % i === 0) {
